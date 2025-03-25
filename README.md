@@ -15,5 +15,5 @@ This repository contains my learning journey in **C programming**, including pra
 ✔️ Arrays & Strings  
 ✔️ Pointers & Memory Management  
 ✔️ Structures & File Handling  
-
-## 📂 Folder Structure  
+---
+💡 *Follow my journey as I dive deeper into C programming!* 🚀
